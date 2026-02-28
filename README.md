@@ -1,5 +1,6 @@
 <h5>
-Itqan - Engineering Finishes and Interior Design ​Welcome to the warehouse for Itqan projects.
+
+Bunyan Design - Engineering Finishes and Interior Design ​Welcome to the warehouse for Itqan projects.
 </h5> 
  We specialize in providing integrated solutions for designing and finishing apartments and villas with the highest standards of quality and engineering precision.
 <h5>
@@ -40,5 +41,5 @@ Email:etqan@gmail.com
 Made with pride by: 
 
 <h6> 
- IbrahimEL-Hosary 2026
+ IbrahimEL-Hosary
 </h6>
